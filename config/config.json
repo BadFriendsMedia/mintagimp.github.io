@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf1bc3bf75a6a91832bfdfe2dcd4bf9a73bc06ce7",
+  "SCAN_LINK": "https://ftmscan.com/address/0xf1bc3bf75a6a91832bfdfe2dcd4bf9a73bc06ce7",
+  "NETWORK": {
+    "NAME": "Fantom Opera",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "The Gimpies",
+  "SYMBOL": "GIMP",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 8000000000000000000,
+  "DISPLAY_COST": 8,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Paintswap",
+  "MARKETPLACE_LINK": "https://paintswap.finance/marketplace/collections/0xf1bc3bf75a6a91832bfdfe2dcd4bf9a73bc06ce7",
+  "SHOW_BACKGROUND": true
+}
